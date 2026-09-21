@@ -4,10 +4,11 @@
 
 ## About
 
-Hey! This project is an interactive screen that uses a Microsoft Kinect to allow participants to learn information about animals!
+Hey! This project is an interactive screen that uses a Microsoft Kinect to allow participants to learn information about the library!
 
 Contains:
-* 
+* Interactive visual display, showcasing information on subjects present in the library.
+* Students can control the application through body movement and gestures.
 * 
 * Customizable, flexible, and versatile. 
 
