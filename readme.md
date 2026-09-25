@@ -9,8 +9,7 @@ Hey! This project is an interactive screen that uses a Microsoft Kinect to allow
 Contains:
 * Interactive visual display, showcasing information on subjects present in the library.
 * Students can control the application through body movement and gestures.
-* 
-* Customizable, flexible, and versatile. 
+* Designed with customization, flexibility, and versatility in mind.
 
 
 ## How to run
